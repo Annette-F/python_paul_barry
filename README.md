@@ -1,1 +1,1 @@
-# python_paul_barry_head_first
+# Head First Python 2nd Edition
